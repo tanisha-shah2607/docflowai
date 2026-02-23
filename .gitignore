@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+config.py
+output/
+*.docx
+*.log
+.vscode/
+.DS_Store
