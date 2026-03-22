@@ -1,0 +1,48 @@
+{
+  "report_type": "Financial Performance Report",
+  "company": "Infopercept Consulting Pvt. Ltd.",
+  "period": "FY 2024",
+  "income_statement": {
+    "total_revenue": 23600000,
+    "cost_of_revenue": 8850000,
+    "gross_profit": 14750000,
+    "gross_margin_pct": 62.5,
+    "operating_expenses": {
+      "sales_marketing": 4250000,
+      "r_and_d": 3100000,
+      "general_admin": 1890000,
+      "total": 9240000
+    },
+    "ebitda": 5510000,
+    "ebitda_margin_pct": 23.3,
+    "net_income": 3820000,
+    "net_margin_pct": 16.2
+  },
+  "revenue_by_type": [
+    { "type": "License Revenue",         "amount": 11800000, "pct": 50.0, "yoy_growth": 29.4 },
+    { "type": "Managed Services",        "amount":  7080000, "pct": 30.0, "yoy_growth": 24.8 },
+    { "type": "Professional Services",   "amount":  3540000, "pct": 15.0, "yoy_growth": 18.2 },
+    { "type": "Training & Certification","amount":  1180000, "pct":  5.0, "yoy_growth": 42.1 }
+  ],
+  "balance_sheet": {
+    "total_assets": 38200000,
+    "current_assets": 19800000,
+    "cash_equivalents": 8400000,
+    "total_liabilities": 12600000,
+    "shareholders_equity": 25600000,
+    "debt_to_equity": 0.49
+  },
+  "cash_flow": {
+    "operating_cash_flow": 5200000,
+    "investing_cash_flow": -2100000,
+    "financing_cash_flow": -800000,
+    "free_cash_flow": 3100000,
+    "fcf_margin_pct": 13.1
+  },
+  "quarterly_financials": [
+    { "quarter": "Q1 2024", "revenue": 4250000, "gross_profit": 2656000, "net_income": 620000 },
+    { "quarter": "Q2 2024", "revenue": 5120000, "gross_profit": 3200000, "net_income": 810000 },
+    { "quarter": "Q3 2024", "revenue": 6340000, "gross_profit": 3963000, "net_income": 1010000 },
+    { "quarter": "Q4 2024", "revenue": 7890000, "gross_profit": 4931000, "net_income": 1380000 }
+  ]
+}

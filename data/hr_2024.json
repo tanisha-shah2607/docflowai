@@ -1,0 +1,47 @@
+{
+  "report_type": "Human Resources Report",
+  "company": "Infopercept Consulting Pvt. Ltd.",
+  "period": "FY 2024",
+  "headcount": {
+    "total_employees": 428,
+    "full_time": 389,
+    "contractors": 39,
+    "new_hires_ytd": 87,
+    "attrition_ytd": 34,
+    "net_headcount_change": 53
+  },
+  "departments": [
+    { "name": "Engineering & Product",  "headcount": 162, "pct": 37.9, "avg_tenure_years": 3.2 },
+    { "name": "Security Operations",    "headcount":  94, "pct": 22.0, "avg_tenure_years": 4.1 },
+    { "name": "Sales & Business Dev",   "headcount":  78, "pct": 18.2, "avg_tenure_years": 2.8 },
+    { "name": "Marketing",              "headcount":  38, "pct":  8.9, "avg_tenure_years": 2.5 },
+    { "name": "Finance & Admin",        "headcount":  31, "pct":  7.2, "avg_tenure_years": 5.3 },
+    { "name": "HR & People Ops",        "headcount":  25, "pct":  5.8, "avg_tenure_years": 3.7 }
+  ],
+  "hiring_by_quarter": [
+    { "quarter": "Q1 2024", "hires": 18, "attrition": 9  },
+    { "quarter": "Q2 2024", "hires": 22, "attrition": 8  },
+    { "quarter": "Q3 2024", "hires": 27, "attrition": 10 },
+    { "quarter": "Q4 2024", "hires": 20, "attrition": 7  }
+  ],
+  "diversity": {
+    "gender_female_pct": 41,
+    "gender_male_pct": 58,
+    "gender_other_pct": 1,
+    "leadership_female_pct": 34,
+    "avg_age": 31.4
+  },
+  "engagement": {
+    "engagement_score": 78,
+    "eNPS": 42,
+    "voluntary_attrition_pct": 7.9,
+    "avg_tenure_years": 3.6,
+    "training_hours_per_employee": 48
+  },
+  "compensation": {
+    "total_payroll_inr_cr": 89.4,
+    "avg_salary_inr_lpa": 18.2,
+    "salary_increase_avg_pct": 12.4,
+    "bonus_pool_inr_cr": 14.2
+  }
+}

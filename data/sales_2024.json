@@ -1,0 +1,43 @@
+{
+  "report_type": "Sales Performance Report",
+  "company": "Infopercept Consulting Pvt. Ltd.",
+  "period": "FY 2024 (January \u2013 December)",
+  "quarterly_sales": [
+    { "quarter": "Q1 2024", "revenue": 4250000, "target": 4000000, "deals_closed": 38, "avg_deal_size": 111842 },
+    { "quarter": "Q2 2024", "revenue": 5120000, "target": 5000000, "deals_closed": 47, "avg_deal_size": 108936 },
+    { "quarter": "Q3 2024", "revenue": 6340000, "target": 6000000, "deals_closed": 56, "avg_deal_size": 113214 },
+    { "quarter": "Q4 2024", "revenue": 7890000, "target": 7500000, "deals_closed": 68, "avg_deal_size": 116029 }
+  ],
+  "regional_breakdown": [
+    { "region": "North America",       "revenue": 9800000, "growth_pct": 24.5, "market_share": 42 },
+    { "region": "Europe",              "revenue": 6200000, "growth_pct": 18.2, "market_share": 26 },
+    { "region": "Asia Pacific",        "revenue": 4800000, "growth_pct": 31.7, "market_share": 20 },
+    { "region": "Middle East & Africa","revenue": 2800000, "growth_pct": 15.9, "market_share": 12 }
+  ],
+  "top_products": [
+    { "product": "Infopercept SOC Suite",       "revenue": 7200000, "units_sold": 142, "growth_pct": 35.4 },
+    { "product": "ThreatGuard Pro",             "revenue": 5800000, "units_sold": 218, "growth_pct": 28.1 },
+    { "product": "ComplianceIQ Platform",       "revenue": 4100000, "units_sold":  89, "growth_pct": 22.6 },
+    { "product": "CloudShield Enterprise",      "revenue": 3400000, "units_sold":  74, "growth_pct": 41.2 },
+    { "product": "Managed Security Services",   "revenue": 3100000, "units_sold":  36, "growth_pct": 19.8 }
+  ],
+  "sales_team": [
+    { "name": "Rahul Sharma",   "region": "North America", "revenue": 3200000, "quota_pct": 128 },
+    { "name": "Priya Nair",     "region": "Europe",        "revenue": 2800000, "quota_pct": 118 },
+    { "name": "Amir Khan",      "region": "Asia Pacific",  "revenue": 2600000, "quota_pct": 135 },
+    { "name": "Sarah Mitchell", "region": "MEA",           "revenue": 1900000, "quota_pct": 112 },
+    { "name": "James Okonkwo",  "region": "North America", "revenue": 2100000, "quota_pct": 108 }
+  ],
+  "kpis": {
+    "total_revenue": 23600000,
+    "total_target":  22500000,
+    "attainment_pct": 104.9,
+    "yoy_growth_pct": 27.3,
+    "total_deals": 209,
+    "win_rate_pct": 64.2,
+    "avg_sales_cycle_days": 47,
+    "customer_acquisition_cost": 8200,
+    "customer_lifetime_value": 148000,
+    "net_revenue_retention_pct": 118
+  }
+}
